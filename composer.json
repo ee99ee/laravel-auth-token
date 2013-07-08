@@ -1,10 +1,10 @@
 {
-    "name": "tappleby/laravel-auth-token",
+    "name": "BytesFlipper/laravel-auth-token",
     "description": "",
     "authors": [
         {
-            "name": "Terry Appleby",
-            "email": "terry.appleby@gmail.com"
+            "name": "Bytes Flipper",
+            "email": "rajiv.seelam@eventstix.com"
         }
     ],
     "require": {
